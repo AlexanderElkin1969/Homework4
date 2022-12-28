@@ -8,7 +8,6 @@ public class Main {
         task6();
         task7();
     }
-
     public static void task1() {
         System.out.println("Задача 1");
         int age =17;
